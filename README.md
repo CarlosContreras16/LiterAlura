@@ -1,6 +1,8 @@
 # LiterAlura
 Desafio de Alura cursos, que consume una API que contiene datos de libros y se almacenan en una base de datos de PostgreSQL
 
+![image](https://github.com/CarlosContreras16/LiterAlura/assets/134731423/cd687552-c362-4961-b31d-70c36dfc26d6)
+
 <h3>Descripción del proyecto</h3> 
 
 En este proyecto se crea un sistema que consume los datos de una API [Gutendex](https://gutendex.com/) del curso de Alura Latam
