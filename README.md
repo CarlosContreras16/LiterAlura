@@ -23,4 +23,14 @@ En este proyecto se crea un sistema que consume los datos de una API [Gutendex](
  10. **Autores en derecho público**: Lista los 10 autores que se encuentran en derecho público en la API.
 - **Salir** : Sale del sistema. 
 
+## :computer:Tecnologias Utilizadas
+
+- Java JDK: versión: 17 en adelante
+- Maven: versión 4 en adelante
+- Spring: versión 3.2.3 - https://start.spring.io/
+- Postgres: versión 16 en adelante
+
+  `Dependencias`
+- Spring Data JPA
+- PostgreSQL Driver
  
